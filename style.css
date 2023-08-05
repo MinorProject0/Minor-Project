@@ -386,7 +386,7 @@ body {
 
 .container .box {
   position: relative;
-  width: calc(425px - 30px);
+  width: calc(460px - 30px);
   height: calc(250px - 30px);
   background: #f8f6f0;
   float: left;
